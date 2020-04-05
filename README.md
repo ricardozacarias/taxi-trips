@@ -10,10 +10,6 @@ In the following tasks, you should focus on yellow cab data from the months of M
 
 Feel free to use any programming language and libraries of your choosing. Results should be delivered as a either a GitHub repo with the code and results (preferred), a zipped directory of code and results, or Colab Notebook(s). **Note:** If you post your work online, please ensure there are no references to CARTO or links to this homework.
 
-You should spend approximately 4 hours on these tasks. Try to document your thought process as much as possible.
-
-You have three tasks:
-
 **Data exploration and cleaning**
 
 * Download and assess the data
